@@ -11,4 +11,5 @@ npx create-next-app@latest ./
 
 ##Instalación 
 npm install @clerk/nextjs @uploadthing/react mongoose svix 
-uploadthing
+uploadthing  tailwindcss-animate
+
